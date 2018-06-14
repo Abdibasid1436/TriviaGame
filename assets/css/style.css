@@ -1,0 +1,12 @@
+body {
+  background-color: orange;
+}
+body, 
+html {
+	min-height: 100%;
+}
+
+body {
+	background-size:cover;
+	background-repeat: no-repeat;
+}
